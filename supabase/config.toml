@@ -1,0 +1,10 @@
+project_id = "ovtgobzyddwjvcidsebe"
+
+[functions.trigger-calls]
+verify_jwt = false
+
+[functions.subverse-webhook]
+verify_jwt = false
+
+[functions.seed-admin]
+verify_jwt = false
